@@ -1,0 +1,23 @@
+table, tr, td, th {
+    border: green 2px solid;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #FFFBEB;
+}
+
+.heading {
+    color: #251749;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.li, p {
+    color: #263159;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.last {
+    color: #495579;
+    font-family: 'Open Sans', sans-serif;
+}
